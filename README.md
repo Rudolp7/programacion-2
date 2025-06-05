@@ -1,2 +1,2 @@
-# programacion-2
-Aquí guardo cosas para pasar el semestre :D 
+# programacion-Java
+puntos de algunos temas que considero interesantes
